@@ -1,11 +1,24 @@
-# dsmeta <p>https://dsmeta-kazu.herokuapp.com/</p>
-<h1>PROJETO SPRING REACT</h1>
+# dsmeta
+
+<h1>Project Spring React</h1>
+
+<h3>Semana Spring React DevSuperior</h3>
+
+<h2> Project deployed on: https://dsmeta-kazu.netlify.app</h2>
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="TS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Netlify" height="140" width="140" src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" />
+  <img align="center" alt="Heroku" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+  <img align="center" alt="Twilio" height="140" width="140" src="https://companiesmarketcap.com/img/company-logos/256/TWLO.png" />
+  <img align="center" alt="H2" height="60" width="60" src="https://www.h2database.com/html/images/h2-logo-2.png" />
+  <img align="center" alt="Yarn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+</div>
 
 <h2>Objetivos</h2>
-
-<p>Criar projetos backend e frontend</p>
-<p>Salvar os projeto no Github em monorepo</p>
-<p>Montar o visual estático do front end</p>
 
 <h3>Spring Boot initializer</h3>
 <p>Web</p>
@@ -39,18 +52,41 @@
 <p></p>
 <p></p>
 
-<h3></h3>
+<h3>Primeira requisição com Axios e useEffect</h3>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 
-<h3></h3>
+<h3>Listagem de vendas</h3>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 
+<h3>Passando as datas como argumento</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3>Enviar notificação</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3>Mensagem Toast de confirmação</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<h3>Deploy no Netlify</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 
 
